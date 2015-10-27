@@ -1,0 +1,14 @@
+{
+  "name": "andulla-vmware_dem_worker",
+  "version": "0.0.1",
+  "author": "andulla",
+  "summary": "Manage the VMware DEM Worker Service inside a vRealize Automation Center environment",
+  "license": "Apache 2.0",
+  "source": "http://www.github.com/andulla",
+  "project_page": "https://www.github.com/andulla",
+  "issues_url": "https://www.github.com/andulla/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
