@@ -36,6 +36,8 @@
 # Copyright 2015 Your name here, unless otherwise noted.
 #
 class vmware_dem_worker {
-  notify { $vmwaredem }
-
+  service { $vmwaredem:
+    ensure => 'running',
+    enable => true,
+  }
 }
