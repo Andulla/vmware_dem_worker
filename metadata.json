@@ -1,6 +1,6 @@
 {
   "name": "andulla-vmware_dem_worker",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "andulla",
   "summary": "Manage the VMware DEM-Worker Service inside a vRealize Automation Center environment",
   "license": "Apache 2.0",
